@@ -8,3 +8,4 @@ Dia 1
 
 Dia 2
 -Se verificó la versión de Git Bash instalada en los equipos y se realizó la instalación en los equipos que lo requerían para desarrollar correctamente la guía.
+-Se crearon ramas alternas, se modificó la misma línea para generar un conflicto y posteriormente se realizó la resolución manual del merge conflict.
