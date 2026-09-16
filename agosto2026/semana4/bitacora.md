@@ -7,3 +7,4 @@ Dia 1
 -Desarrollo delpunto contextualizacion:"el motor del tiempo" verficando que los conceptos hayan quedado claros empezamos a ejecutar los comandos en la terminal que se nos iba pidiendo en la guia
 
 Dia 2
+-Se verificó la versión de Git Bash instalada en los equipos y se realizó la instalación en los equipos que lo requerían para desarrollar correctamente la guía.
