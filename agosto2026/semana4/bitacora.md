@@ -5,3 +5,5 @@ Dia 1
 -Socializacion de una nueva guia llamada El Multiverso de los Archivos, comprendiendo y analisando como usar correctamente los comando en las terminales
 -Instalacion de git bash en el computador para comenzar el desarrollo de la actividad
 -Desarrollo delpunto contextualizacion:"el motor del tiempo" verficando que los conceptos hayan quedado claros empezamos a ejecutar los comandos en la terminal que se nos iba pidiendo en la guia
+
+Dia 2
