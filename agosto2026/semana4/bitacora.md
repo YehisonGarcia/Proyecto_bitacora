@@ -10,3 +10,4 @@ Dia 2
 -Se verificó la versión de Git Bash instalada en los equipos y se realizó la instalación en los equipos que lo requerían para desarrollar correctamente la guía.
 -Se crearon ramas alternas, se modificó la misma línea para generar un conflicto y posteriormente se realizó la resolución manual del merge conflict.
 -Se realizaron varios Kahoot relacionados con los comandos de Git y los temas trabajados durante la guía, con el propósito de reforzar los conocimientos adquiridos.
+-Se descargó y analizó el proyecto, identificando las ramas ocultas y siguiendo el proceso para encontrar a Codi y realizar las fusiones hacia main utilizando --no-ff
