@@ -4,3 +4,4 @@ semana2 dia 1
 -Realizacion del informe de calidad y trazabilidad de nuestra propia bitacora analisando las causas de las raices de los impedimentos en la bitacora, tambien reconocimiento de los errores en la estimacion de tiempo, analisando y reconociendo el error cometido en la bitacora.
 
 Dia2
+-Socializacion de ideas en grupo sobre personas reconocidas que no tiene el sentido de la vista las cuales han sobresalido con otra habilidad, realizando una lluvia de ideas entre todas las personas del grupo.
