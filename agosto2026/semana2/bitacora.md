@@ -5,3 +5,4 @@ semana2 dia 1
 
 Dia2
 -Socializacion de ideas en grupo sobre personas reconocidas que no tiene el sentido de la vista las cuales han sobresalido con otra habilidad, realizando una lluvia de ideas entre todas las personas del grupo.
+-Realizacion del primer punto de la guia respondiendo la pregunta:¿qué pasaría con tu velocidad y seguridad frente al computador si dejaras de buscar carpetas visualmente con el mouse y empezaras a darle instrucciones directas a tu sistema con el teclado? en una hoja
