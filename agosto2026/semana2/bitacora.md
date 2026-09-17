@@ -7,3 +7,4 @@ Dia2
 -Socializacion de ideas en grupo sobre personas reconocidas que no tiene el sentido de la vista las cuales han sobresalido con otra habilidad, realizando una lluvia de ideas entre todas las personas del grupo.
 -Realizacion del primer punto de la guia respondiendo la pregunta:¿qué pasaría con tu velocidad y seguridad frente al computador si dejaras de buscar carpetas visualmente con el mouse y empezaras a darle instrucciones directas a tu sistema con el teclado? en una hoja
 -llenar la tabla del reto:Del hábito cotidiano al estándar laboral llenando la informacion según las indicaciones pedidas, realizando comandos en git bash 
+-Explicacion del laboratorio practico que se realiza en la casa para entender de mejor manera los comandos para avanzar mejor en clase
