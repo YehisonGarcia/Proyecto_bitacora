@@ -1,0 +1,1 @@
+-Desarrollo de la actividad inicial de reflexion, dividiendo al grupo en dos partes, simulando una situacion donde te asignan una tarea con muchos errores y tienes que encontrar el archivo donde se encuentra la informacion real
