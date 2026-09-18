@@ -2,3 +2,4 @@
 -Se escogio alzar los integrantes del grupo, en esta actividad grupal se desarrollo usando la base de mi tienda online, creando la estructura de una tienda online
 -Socializacion de una nueva guia llamada  El multiverso de los archivos, comprendiendo y analisando como usar correctamente los comandos en las terminales
 -Desarrollo de las preguntas de la actividad de contextualizacion, investigando y descubriendo como funciona correctamente git hub, buscando en paginas confiables la informacion
+-Cuestionario enn kahoot grupalmente, reforzando los conocimientos previos de las guian vistas anteriormente
