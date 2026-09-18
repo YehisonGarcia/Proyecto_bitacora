@@ -6,3 +6,4 @@
 -Creacion de cuenta en github para el desarrollo de la primera fase de apropiacion del conocimiento, configurando la cuenta segun las especificaciones requeridas en la guia
 -Configuración y vinculación de proyectos locales con repositorios remotos en GitHub para gestionar y compartir los cambios del proyecto creando mi primer repositorio
 -Creé y vinculé el repositorio remoto con el proyecto local, realicé el primer push e invité a mis compañeros como colaboradores para integrarlos al proyecto. Coordiné la clonación, creación de ramas y subida de avances de cada integrante.
+-Coordiné la creación de las firmas de cada integrante en sus respectivos computadores, utilizando ramas individuales para registrar los cambios.
