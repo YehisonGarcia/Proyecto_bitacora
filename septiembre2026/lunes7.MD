@@ -1,3 +1,4 @@
 -Desarrollo de la actividad de apropiacion, la primera se desarrollo individualmente desarrollando la arquitectura de interfaces de una tienda online en una hoja blanca con 10 minutos para desarrollar ese punto
 -Se escogio alzar los integrantes del grupo, en esta actividad grupal se desarrollo usando la base de mi tienda online, creando la estructura de una tienda online
 -Socializacion de una nueva guia llamada  El multiverso de los archivos, comprendiendo y analisando como usar correctamente los comandos en las terminales
+-Desarrollo de las preguntas de la actividad de contextualizacion, investigando y descubriendo como funciona correctamente git hub, buscando en paginas confiables la informacion
