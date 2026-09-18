@@ -2,3 +2,4 @@
 -Creamos y organizamos nuestra foto de perfil y los datos personales para configurar correctamente nuestro perfil de GitHub.
 -Creamos el repositorio con nuestro nombre de usuario y agregamos una pequeña biografía al perfil de GitHub
 -El instructor organizó los equipos mediante una ruleta virtual y posteriormente el líder creó el repositorio para trabajar con los integrantes.
+-Realizamos el proyecto de acuerdo con el contrato y posteriormente fusionamos las ramas de los integrantes para integrar los avances.
