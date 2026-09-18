@@ -1,4 +1,4 @@
 -Recibimos retroalimentación del instructor sobre la guía anterior y realizamos las correcciones necesarias.
 -Creamos y organizamos nuestra foto de perfil y los datos personales para configurar correctamente nuestro perfil de GitHub.
--git commit -m "feat: Crear repositorio y agregar biografía"
-
+-Creamos el repositorio con nuestro nombre de usuario y agregamos una pequeña biografía al perfil de GitHub
+-El instructor organizó los equipos mediante una ruleta virtual y posteriormente el líder creó el repositorio para trabajar con los integrantes.
