@@ -3,3 +3,4 @@
 -Presentacion para reforzar los las ideas que se encuntran debiles sobre la guia anterior por parte de los companeros que perdieron el kahoot
 -Desarrollo del punto de apropiacion, durante la actividad se creó una nueva rama en Git para trabajar de manera independiente y se documentaron los comandos aprendidos durante la clase.
 -Posteriormente, se simuló la corrección de un pequeño error de escritura en un texto, realizando un commit de tipo fix para registrar el cambio
+-Finalmente, se fusionaron los avances realizados en la rama principal y se eliminaron las ramas temporales para mantener el espacio de trabajo organizado y limpio
