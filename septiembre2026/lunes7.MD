@@ -3,3 +3,4 @@
 -Socializacion de una nueva guia llamada  El multiverso de los archivos, comprendiendo y analisando como usar correctamente los comandos en las terminales
 -Desarrollo de las preguntas de la actividad de contextualizacion, investigando y descubriendo como funciona correctamente git hub, buscando en paginas confiables la informacion
 -Cuestionario enn kahoot grupalmente, reforzando los conocimientos previos de las guian vistas anteriormente
+-Creacion de cuenta en github para el desarrollo de la primera fase de apropiacion del conocimiento, configurando la cuenta segun las especificaciones requeridas en la guia
