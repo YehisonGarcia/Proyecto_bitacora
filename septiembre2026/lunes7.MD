@@ -7,3 +7,4 @@
 -Configuración y vinculación de proyectos locales con repositorios remotos en GitHub para gestionar y compartir los cambios del proyecto creando mi primer repositorio
 -Creé y vinculé el repositorio remoto con el proyecto local, realicé el primer push e invité a mis compañeros como colaboradores para integrarlos al proyecto. Coordiné la clonación, creación de ramas y subida de avances de cada integrante.
 -Coordiné la creación de las firmas de cada integrante en sus respectivos computadores, utilizando ramas individuales para registrar los cambios.
+-Intenté integrar las firmas de todos los integrantes en el repositorio principal mediante la combinación de sus ramas.
